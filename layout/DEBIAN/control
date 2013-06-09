@@ -1,0 +1,11 @@
+Package: com.c0deh4cker.mcserver
+Name: MCServer
+Depends: mobilesubstrate
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Allows you to change servers in the app itself.
+ This package will add an option to the in-app options menu. You will be able to change the multiplayer server from within the app itself. This changes the ip address of the server that the app looks for when you click the "Join Game" tab.
+Maintainer: C0deH4cker <c0deh4cker@gmail.com>
+Author: C0deH4cker <c0deh4cker@gmail.com>
+Section: Tweaks
+Tags: role::enduser
